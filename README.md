@@ -2,6 +2,11 @@ This fitness appointment tracker is a user-friendly web application designed to 
 
 The relevant screenshots have been attached in a folder
 
+This project can be accessed by:-
+Cloning the files of this repository by git clone or download the zip
+Use the `npm i` command in the app folder to install all the dependencies
+Now start the app with `npm start`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
